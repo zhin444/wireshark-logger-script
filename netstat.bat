@@ -1,3 +1,3 @@
 TITLE = %date% %time%
-python nestle.py
+python netstat.py
 

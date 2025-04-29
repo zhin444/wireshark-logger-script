@@ -1,2 +1,2 @@
 TITLE = TIDES - %date% %time%
-python "tides.py" %1
+python "tshark.py" %1
